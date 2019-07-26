@@ -11,3 +11,4 @@ This workshop will:
 - Present invited and contributed talks on state of the art algorithmic approaches to fairness and safety in AI.
 - Present invited and contributed talks on the current epistemic challenges facing those who work in AI Ethics, Fairness, and Safety.
 - Move beyond the conventional “toy” problems of AI Fairness (e.g. algorithmic risk scoring), Ethics (e.g. the trolley problem), and Safety (e.g. paperclip maximizers) to highlight real-world cases of algorithmic impacts that call for careful study by those working in AI Ethics, Fairness, and Safety. 
+{: .text-justify}
