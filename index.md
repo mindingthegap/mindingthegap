@@ -1,5 +1,5 @@
 # Workshop Summary
-
+<p align="center">
 When researchers and practitioners, as well as policy makers and the public, discuss the impacts of deep learning systems, they draw upon multiple conceptual frames that do not sit easily beside each other. Questions of algorithmic fairness arise from a set of concerns that are similar, but not identical, to those that circulate around AI safety, which in turn overlap with, but are distinct from, the questions that motivate work on AI ethics, and so on. Robust bodies of research on privacy, security, transparency, accountability, interpretability, explainability, and opacity are also incorporated into each of these frames and conversations in variable ways. These frames reveal gaps that persist across both highly technical and socially embedded approaches, and yet collaboration across these gaps has proven challenging.
 
 Fairness, Ethics, and Safety in AI each draw upon different disciplinary prerogatives, variously centering applied mathematics, analytic philosophy, behavioral sciences, legal studies, and the social sciences in ways that make conversation between these frames fraught with misunderstandings. These misunderstandings arise from a high degree of linguistic slippage between different frames, and reveal the epistemic fractures that undermine valuable synergy and productive collaboration. This workshop focuses on ways to translate between these ongoing efforts and bring them into necessary conversation in order to understand the profound impacts of algorithmic systems in society. 
@@ -11,4 +11,4 @@ This workshop will:
 - Present invited and contributed talks on state of the art algorithmic approaches to fairness and safety in AI.
 - Present invited and contributed talks on the current epistemic challenges facing those who work in AI Ethics, Fairness, and Safety.
 - Move beyond the conventional “toy” problems of AI Fairness (e.g. algorithmic risk scoring), Ethics (e.g. the trolley problem), and Safety (e.g. paperclip maximizers) to highlight real-world cases of algorithmic impacts that call for careful study by those working in AI Ethics, Fairness, and Safety. 
-{: .text-justify}
+</p>
