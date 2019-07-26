@@ -1,11 +1,11 @@
 # Workshop Summary
 <p align="justify">
 When researchers and practitioners, as well as policy makers and the public, discuss the impacts of deep learning systems, they draw upon multiple conceptual frames that do not sit easily beside each other. Questions of algorithmic fairness arise from a set of concerns that are similar, but not identical, to those that circulate around AI safety, which in turn overlap with, but are distinct from, the questions that motivate work on AI ethics, and so on. Robust bodies of research on privacy, security, transparency, accountability, interpretability, explainability, and opacity are also incorporated into each of these frames and conversations in variable ways. These frames reveal gaps that persist across both highly technical and socially embedded approaches, and yet collaboration across these gaps has proven challenging.</p>
-<br>
+
 <p align="justify">Fairness, Ethics, and Safety in AI each draw upon different disciplinary prerogatives, variously centering applied mathematics, analytic philosophy, behavioral sciences, legal studies, and the social sciences in ways that make conversation between these frames fraught with misunderstandings. These misunderstandings arise from a high degree of linguistic slippage between different frames, and reveal the epistemic fractures that undermine valuable synergy and productive collaboration. This workshop focuses on ways to translate between these ongoing efforts and bring them into necessary conversation in order to understand the profound impacts of algorithmic systems in society. </p>
-<br>
+
 <p align="justify">Efforts to understand powerful technosocial systems are not new. But now, a broad range of stakeholders are grappling with the impacts of such systems brought about through the development and deployment of AI technologies. They bring disparate disciplinary framings to this effort, which produce very different descriptions of the problems to be solved, as well as potential solutions. As a result, this fractured set of conversations make it difficult for technologists and researchers, as well as policy and decision-makers in academia, government, and industry, to understand the problem space of algorithmic impacts and the range of possible interventions.</p>
-<br>
+
 This workshop will:
 - Bring together technical and non-technical researchers working across different frames on cross-cutting panels in order to work toward understanding the range of perspectives in AI Ethics, Fairness, and Safety. 
 - Present invited and contributed talks on state of the art algorithmic approaches to fairness and safety in AI.
