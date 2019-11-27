@@ -12,3 +12,32 @@ This workshop will:
 - Present invited and contributed talks on the current epistemic challenges facing those who work in AI Ethics, Fairness, and Safety.
 - Move beyond the conventional “toy” problems of AI Fairness (e.g. algorithmic risk scoring), Ethics (e.g. the trolley problem), and Safety (e.g. paperclip maximizers) to highlight real-world cases of algorithmic impacts that call for careful study by those working in AI Ethics, Fairness, and Safety. 
 
+# Workshop Schedule
+<p align="justify"><i>Fri Dec 13th 08:00 AM -- 06:00 PM @ East Meeting Rooms 8 + 15</i></p>
+<p><b>08:00 AM Opening Remarks</b><br>
+<i>TBD</i></p>
+<p><b>08:15 AM Invited Talk</b><br>
+<i>Yoshua Bengio</i></p>
+<p><b>08:45 AM Approaches to Understanding AI</b> (Discussion Panel)<br>
+<i>Yoshua Bengio, Roel Dobbe, Madeleine Elish, Joshua Kroll, Jacob Metcalf<br>
+Jack Poulson -- moderator</i></p>
+<p><b>09:45 AM Spectrogram</b> (Activity)<br>
+<i>Emanuel Moss</i></p>
+<p><b>10:00 AM Coffee Break</b></p>
+<p><b>10:30 AM Detecting and Documenting AI Impacts</b> (Discussion Panel)<br>
+<i>Fitzroy Christian, Alexa Hagerty, Fabian Rogers, Friederike Schuur, Jacob Snow<br>
+Madeleine Elish -- moderator</i></p>
+<p><b>11:30 AM Responsibilities</b> (Discussion Panel)<br>
+<i>Rumman Chowdhury, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
+Jacob Metcalf -- moderator</i></p>
+<p><b>12:30 PM Lunch Break</b></p>
+<p><b>02:00 PM A Conversation with Meredith Whittaker</b> (Interview)<br>
+<i>Meredith Whittaker<br>
+Mona Sloane -- moderator</i></p>
+<p><b>02:45 PM Global Implications</b> (Discussion Panel)<br>
+<i>Rumman Chowdhury, Eirini Malliaraki, Jack Poulson, Mona Sloane<br>
+Alexa Hagerty -- moderator</i></p>
+<p><b>03:45 PM Coffee Break</b></p>
+<p><b>04:30 PM Solutions</b> (Discussion Panel)<br>
+<i>Fitzroy Christian, Lily Hu, Brandeis Marshall, Fabian Rogers, Friederike Schuur<br>
+Emanuel Moss -- moderator</i></p>
