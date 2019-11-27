@@ -25,7 +25,7 @@ Jack Poulson -- moderator</i></p>
 <i>Emanuel Moss</i></p>
 <p><b>10:00 AM Coffee Break</b></p>
 <p><b>10:30 AM Detecting and Documenting AI Impacts</b> (Discussion Panel)<br>
-<i>Fitzroy Christian, Alexa Hagerty, Fabian Rogers, Friederike Schuur, Jacob Snow<br>
+<i>Melissa Roman, Alexa Hagerty, Fabian Rogers, Friederike Schuur, Jacob Snow<br>
 Madeleine Elish -- moderator</i></p>
 <p><b>11:30 AM Responsibilities</b> (Discussion Panel)<br>
 <i>Rumman Chowdhury, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
@@ -39,5 +39,5 @@ Mona Sloane -- moderator</i></p>
 Alexa Hagerty -- moderator</i></p>
 <p><b>03:45 PM Coffee Break</b></p>
 <p><b>04:30 PM Solutions</b> (Discussion Panel)<br>
-<i>Fitzroy Christian, Lily Hu, Brandeis Marshall, Fabian Rogers, Friederike Schuur<br>
+<i>Melissa Roman, Lily Hu, Brandeis Marshall, Fabian Rogers, Friederike Schuur<br>
 Emanuel Moss -- moderator</i></p>
