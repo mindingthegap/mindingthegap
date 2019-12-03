@@ -28,14 +28,14 @@ Jack Poulson -- moderator</i></p>
 <i>Melissa Roman, Alexa Hagerty, Fabian Rogers, Friederike Schuur, Jacob Snow<br>
 Madeleine Elish -- moderator</i></p>
 <p><b>11:30 AM Responsibilities</b> (Discussion Panel)<br>
-<i>Rumman Chowdhury, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
+<i>RAlex Hanna, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
 Jacob Metcalf -- moderator</i></p>
 <p><b>12:30 PM Lunch Break</b></p>
 <p><b>02:00 PM A Conversation with Meredith Whittaker</b> (Interview)<br>
 <i>Meredith Whittaker<br>
 Mona Sloane -- moderator</i></p>
 <p><b>02:45 PM Global Implications</b> (Discussion Panel)<br>
-<i>Rumman Chowdhury, Eirini Malliaraki, Jack Poulson, Mona Sloane<br>
+<i>Eirini Malliaraki, Jack Poulson, Vinod Prabhakaran, Mona Sloane<br>
 Alexa Hagerty -- moderator</i></p>
 <p><b>03:45 PM Coffee Break</b></p>
 <p><b>04:30 PM Solutions</b> (Discussion Panel)<br>
