@@ -28,7 +28,7 @@ Jack Poulson -- moderator</i></p>
 <i>Melissa Roman, Alexa Hagerty, Fabian Rogers, Friederike Schuur, Jacob Snow<br>
 Madeleine Elish -- moderator</i></p>
 <p><b>11:30 AM Responsibilities</b> (Discussion Panel)<br>
-<i>RAlex Hanna, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
+<i>Alex Hanna, Been Kim, Liz O'Sullivan, Friederike Schuur, Andrew Smart<br>
 Jacob Metcalf -- moderator</i></p>
 <p><b>12:30 PM Lunch Break</b></p>
 <p><b>02:00 PM A Conversation with Meredith Whittaker</b> (Interview)<br>
